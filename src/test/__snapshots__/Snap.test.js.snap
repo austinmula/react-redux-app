@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test works 1`] = `
+<div>
+  <h1
+    data-testid="heading"
+  >
+    This is the homepahge
+  </h1>
+  <div>
+    <h3>
+      Heading
+    </h3>
+    <p>
+      This is simple text for testing
+    </p>
+  </div>
+</div>
+`;
